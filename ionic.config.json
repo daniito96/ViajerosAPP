@@ -1,0 +1,8 @@
+{
+  "name": "ViajerosAPP",
+  "app_id": "ea643357",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
